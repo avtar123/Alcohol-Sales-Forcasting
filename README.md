@@ -1,4 +1,4 @@
-# Alcohol-Sales-Predection Using Random Forest & Linear Regression
+# Alcohol Sales Forcasting Using Random Forest & Linear Regression
 Time Series Forecasting
 
 
